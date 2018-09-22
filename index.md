@@ -41,7 +41,7 @@ layout: default
 
 ## Mining
 
-You can mine any miner which support Lyra2REv2.
+You can mine by any miner which support Lyra2REv2.
 Supporting segwit is recommended.
 Cpuminer is [here](https://github.com/kusacoin/cpuminer).
 
