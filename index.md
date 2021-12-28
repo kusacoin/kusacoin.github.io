@@ -4,6 +4,11 @@ layout: default
 
 <img src="kusacoin.png" width="128" height="128">
 
+## R.I.P.
+
+We have been stopped the seed node and the mining node at Dec 29 2021 and the block height 170,443.
+You can download the last blocks [here](blk00000.dat).
+
 ## Download
 
 <dl>
